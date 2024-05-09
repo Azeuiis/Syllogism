@@ -46,7 +46,7 @@ dans sa proposition. On caractérise donc un syllogisme de façon complète par 
 | P = faux | 2        | 4        |
 3. Type des figures
 
-Il existe donc 28 = 256 types de syllogismes. Chacun est défini par les valeurs « vrai » ou « faux » que prennent les 8
+Il existe donc 2^8 = 256 types de syllogismes. Chacun est défini par les valeurs « vrai » ou « faux » que prennent les 8
 variables qui le caractérisent. Pour une proposition donnée par ses variables U et A, le tableau 2 donne le type de
 proposition avec les notations usuelles pour les syllogismes. Pour un syllogisme donné par ses variables S et P, le
 tableau 3 donne la figure correspondante.
