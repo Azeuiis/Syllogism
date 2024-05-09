@@ -52,6 +52,7 @@ proposition avec les notations usuelles pour les syllogismes. Pour un syllogisme
 tableau 3 donne la figure correspondante.
 
   **Exemple:** Soit le syllogisme suivant, repris comme exemple dans la suite du texte :
+  
 *Tous les chats sont gris – Il existe un animal qui n’est pas gris – Il existe un animal qui n’est pas un chat*
 
 
