@@ -5,6 +5,8 @@ Un programme qui vérifie si un syllogisme est valide ou non.
 Le fichier ``syllogisme.ml`` comprend le code du programme en langage ocaml.
 ``syllogisme.xlsx`` comprend un tableur avec les 256 formes de syllogismes possibles, ainsi que la valeur de chaque règle (détails ci-dessous)
 appliqués sur celui-ci; Il comprends également le type de chaque proposion , ainsi que la proposition et la figure du syllogisme.
+``algo-syllogisme.docx`` contient quand à lui l'algorithme permettant de coder les règles, permettant ainsi la transcription dans n'importe
+quelle langage informatique.
 
 **Notions et notations :** Un syllogisme est la donnée de trois propositions. Les deux premières sont appelées
 prémisses (n°1 et n°2) et la troisième la conclusion (C). Une proposition est de la forme s → p, où et s et p sont appelés
