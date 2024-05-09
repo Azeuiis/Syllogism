@@ -31,16 +31,19 @@ dans sa proposition. On caractérise donc un syllogisme de façon complète par 
 | A2       | la 2e prémisse est affirmative  |
 | Ac       | la conclusion est affirmative   |
 | S        | S est sujet dans sa prémisse    |
-| P        | P est prédicat dans sa prémisse |          1. Variables d’un syllogisme
+| P        | P est prédicat dans sa prémisse |
+1. Variables d’un syllogisme
 
 | Proposition | U = vrai | U = faux |
 |:-----------:|:--------:|----------|
 | A = vrai    | A        | I        |
-| A = faux    | E        | O        |          2. Types des propositions
+| A = faux    | E        | O        |
+2. Types des propositions
 
 |  Figure  | S = vrai | S = faux |
 |:--------:|:--------:|----------|
 | P = vrai | 1        | 3        |
-| P = faux | 2        | 4        |          3.Type des figures
+| P = faux | 2        | 4        |
+3. Type des figures
 
 
