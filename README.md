@@ -46,4 +46,35 @@ dans sa proposition. On caractérise donc un syllogisme de façon complète par 
 | P = faux | 2        | 4        |
 3. Type des figures
 
+Il existe donc 28 = 256 types de syllogismes. Chacun est défini par les valeurs « vrai » ou « faux » que prennent les 8
+variables qui le caractérisent. Pour une proposition donnée par ses variables U et A, le tableau 2 donne le type de
+proposition avec les notations usuelles pour les syllogismes. Pour un syllogisme donné par ses variables S et P, le
+tableau 3 donne la figure correspondante.
 
+  **Exemple:** Soit le syllogisme suivant, repris comme exemple dans la suite du texte :
+*Tous les chats sont gris – Il existe un animal qui n’est pas gris – Il existe un animal qui n’est pas un chat*
+
+
+
+Dans la conclusion, le sujet S est animal et le prédicat P est chat. La première prémisse est universelle et
+affirmative, donc U1 = vrai et A1 = vrai. La seconde prémisse est particulière et négative, donc U2 = faux et A2 =
+faux. La conclusion est particulière et négative, donc Uc = faux et Ac = faux. Le sujet de la conclusion (animal) est
+sujet dans sa prémisse, donc S = vrai. Le prédicat de la conclusion est sujet dans sa prémisse, donc P = faux. Le
+syllogisme proposé est donc représenté par l’octuplet de variables booléennes Z = (U1, U2, Uc, A1, A2, Ac, S, P) =
+(vrai, faux, faux, vrai, faux, faux, vrai, faux). D’après le tableau 3, il correspond à la figure 2. À ce stade, l’on
+constate seulement que les trois propositions forment un syllogisme, mais l’on ne sait pas s’il est valide.
+
+Comme une proposition, un terme a une quantité. S’il est sujet de la proposition, sa quantité est celle de sa
+proposition. Un sujet est donc universel quand sa proposition l’est (et particulier quand sa proposition l’est). Si un
+terme est prédicat de sa proposition, sa quantité est universelle quand sa proposition est négative (et particulière
+quand elle est affirmative).
+
+Pour trouver les syllogismes valides parmi tous les syllogismes possibles, une méthode consiste à ne retenir que ceux
+qui vérifient toutes les règles suivantes, dont certaines portent sur les quantités et d’autres sur les qualités. La
+démonstration de la validité de ces règles n’entre pas dans le cadre du projet.
+
+**Règles sur les quantités**
+
+|**Règle du moyen terme Rmt** : la quantité de M doit être universelle dans l’une des prémisses au moins. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Règle du latius hos. Rlh** : la quantité d’un terme de la conclusion ne peut être universelle que si elle l’est dans la prémisse contenant ce terme. |
