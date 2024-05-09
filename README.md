@@ -1,5 +1,5 @@
 # Syllogisme
-Un programme qui prend un syllogisme et qui vérifie si celui-ci est valide ou non.
+Un programme qui vérifie si un syllogisme est valide ou non.
 ⚠️ Syllogisme valide =/= Syllogisme Correcte.
 
 Le fichier ``syllogisme.ml`` comprend le code du programme en langage ocaml.
