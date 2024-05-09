@@ -1,4 +1,4 @@
-# Syllogism
+# Syllogisme
 Un programme qui prend un syllogisme et qui vérifie si celui-ci est valide ou non.
 ⚠️ Syllogisme valide =/= Syllogisme Correcte.
 
