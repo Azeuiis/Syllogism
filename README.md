@@ -73,8 +73,30 @@ Pour trouver les syllogismes valides parmi tous les syllogismes possibles, une m
 qui vérifient toutes les règles suivantes, dont certaines portent sur les quantités et d’autres sur les qualités. La
 démonstration de la validité de ces règles n’entre pas dans le cadre du projet.
 
-**Règles sur les quantités**
-
-|**Règle du moyen terme Rmt** : la quantité de M doit être universelle dans l’une des prémisses au moins. |
+| Règles sur les quantités                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Règle du latius hos. Rlh** : la quantité d’un terme de la conclusion ne peut être universelle que si elle l’est dans la prémisse contenant ce terme. |
+| Règle du moyen terme Rmt : la quantité de M doit être universelle dans l’une des prémisses au moins.                                               |
+| Règle du latius hos. Rlh : la quantité d’un terme de la conclusion ne peut être universelle que si elle l’est dans la prémisse contenant ce terme. |
+
+Ces règles expriment, indirectement pour Rmt et directement pour Rlh, que les éléments de la conclusion ne peuvent
+être plus forts que ceux des prémisses, au sens où une proposition universelle est plus forte qu’une proposition
+particulière et une proposition affirmative est plus forte qu’une proposition négative.
+
+**Exemple, suite.**
+   *Règle Rmt.* Dans la figure 2, M (gris) est prédicat. Comme la proposition n°2 qui le contient est négative, sa
+   quantité est universelle. La règle est donc vérifiée.
+   *Règle Rlh.* La quantité de S (animal) est particulière, parce que la quantité de la conclusion l’est. La quantité de P
+   (chat) est universelle, parce que la conclusion est négative. P (chat) est le sujet de la première prémisse. Sa
+   quantité est donc celle de la première prémisse, c’est-à-dire universelle aussi. La règle est donc vérifiée, puisqu’il
+   ne figure pas dans la conclusion de terme de quantité universelle qui serait de quantité particulière dans son
+   prédicat.
+
+| Règles sur les qualités                                               |
+|-----------------------------------------------------------------------|
+| Rnn : deux prémisses négatives ne donnent pas de conclusion.          |
+| Rn : si une prémisse est négative, la conclusion est négative.        |
+| Raa : deux prémisses affirmatives donnent une conclusion affirmative. |
+| Rpp : deux prémisses particulières ne donnent pas de conclusion.      |
+| Rp : si une prémisse est particulière la conclusion est particulière. |
+
+** Toutes les règles sont vérifiées pour le syllogisme proposé : il est donc valide. **
