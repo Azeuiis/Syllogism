@@ -8,7 +8,7 @@ termes, appelés respectivement sujet et prédicat. La conclusion est notée S �
 et d’un terme M, dit moyen. Elle est de la forme P → M ou M → P. La prémisse n°2 est composée de S et du terme M.
 Elle est de la forme S → M ou M → S. Les quatre formes de syllogismes, dites figures, sont donc :
 
-|               | Figure 1 | Figure 2 | Figure 3 | Figure 4 |
+|       Proposition        | Figure 1 | Figure 2 | Figure 3 | Figure 4 |
 |:-------------:|:--------:|----------|----------|----------|                       
 | 1ere prémisse | M → P    | P → M    | M → P    | P → M    |                       
 | 2e prémisse   | S → M    | S → M    | M → S    | M → S    |                       
