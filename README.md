@@ -84,8 +84,10 @@ Ces règles expriment, indirectement pour Rmt et directement pour Rlh, que les �
 particulière et une proposition affirmative est plus forte qu’une proposition négative.
 
 **Exemple, suite.**
+
    *Règle Rmt.* Dans la figure 2, M (gris) est prédicat. Comme la proposition n°2 qui le contient est négative, sa
    quantité est universelle. La règle est donc vérifiée.
+   
    *Règle Rlh.* La quantité de S (animal) est particulière, parce que la quantité de la conclusion l’est. La quantité de P
    (chat) est universelle, parce que la conclusion est négative. P (chat) est le sujet de la première prémisse. Sa
    quantité est donc celle de la première prémisse, c’est-à-dire universelle aussi. La règle est donc vérifiée, puisqu’il
