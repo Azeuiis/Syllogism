@@ -102,4 +102,10 @@ particulière et une proposition affirmative est plus forte qu’une proposition
 | Rpp : deux prémisses particulières ne donnent pas de conclusion.      |
 | Rp : si une prémisse est particulière la conclusion est particulière. |
 
-** Toutes les règles sont vérifiées pour le syllogisme proposé : il est donc valide. **
+**Toutes les règles sont vérifiées pour le syllogisme proposé : il est donc valide.**
+
+| Sources :                                          |
+|----------------------------------------------------|
+| https://fr.wikipedia.org/wiki/Syllogisme           |
+| https://www.youtube.com/watch?v=M09waFKxbO4&t=129s |
+
