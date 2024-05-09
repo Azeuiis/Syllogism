@@ -104,8 +104,8 @@ particulière et une proposition affirmative est plus forte qu’une proposition
 
 **Toutes les règles sont vérifiées pour le syllogisme proposé : il est donc valide.**
 
-| Sources :                                          |
+| Sources & aides :                                  |
 |----------------------------------------------------|
 | https://fr.wikipedia.org/wiki/Syllogisme           |
 | https://www.youtube.com/watch?v=M09waFKxbO4&t=129s |
-
+| https://www.youtube.com/watch?v=H4HK0ycJWls        |
