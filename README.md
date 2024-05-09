@@ -72,7 +72,7 @@ quand elle est affirmative).
 
 Pour trouver les syllogismes valides parmi tous les syllogismes possibles, une méthode consiste à ne retenir que ceux
 qui vérifient toutes les règles suivantes, dont certaines portent sur les quantités et d’autres sur les qualités. La
-démonstration de la validité de ces règles n’entre pas dans le cadre du projet.
+démonstration de la validité de ces règles n’entre pas dans le cadre de ce repo Github.
 
 | Règles sur les quantités                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
